@@ -1,0 +1,6 @@
+body{
+    display: flex;
+}
+#szia{
+    flex-wrap: wrap;
+}
