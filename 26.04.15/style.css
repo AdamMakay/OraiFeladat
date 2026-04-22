@@ -1,6 +1,10 @@
-body{
-    display: flex;
+
+#szia img{
+    height: 100px;
 }
 #szia{
+    display: flex;
+    height: 1000px;
+    border:  1px solid black;
     flex-wrap: wrap;
 }
